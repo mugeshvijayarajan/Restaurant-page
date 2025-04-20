@@ -1,0 +1,10 @@
+html {
+    font-size:22px;
+}
+body{
+    background-color:#283c3f;
+    color: white;
+}
+table, th, td, caption {
+    border: 1px solid;
+}
